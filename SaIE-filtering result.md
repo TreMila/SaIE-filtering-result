@@ -1,4 +1,4 @@
-|          | Dataset | Count of labels by Forward Label Extension | Count of labels by Backwrard Label Validation | Count of labels filtered by Backwrard Label Validation | Ratio of filtering |
+|          | Dataset | Count of labels by Forward Label Extension | Count of labels by Backward Label Validation | Count of labels filtered by Backward Label Validation | Ratio of filtering |
 |----------|---------|--------------------------------------------|-----------------------------------------------|--------------------------------------------------------|--------------------|
 | ChatGLM  | SciERC  | 352                                        | 176                                           | 176                                                    | 50.00%             |
 |          | CMeIE   | 255                                        | 194                                           | 61                                                     | 23.92%             |
@@ -18,7 +18,7 @@
 |          | CMeEE   | 1055                                       | 1007                                          | 48                                                     | 4.55%              |
 |          | CASIE   | 374                                        | 349                                           | 25                                                     | 6.68%              |
 |          | DuEE    | 1343                                       | 1142                                          | 201                                                    | 14.97%             |
-| LLaMA    | SciERC  | 380                                        | 360                                           | 20                                                     | 5.26%              |
+| LLaMA-2    | SciERC  | 380                                        | 360                                           | 20                                                     | 5.26%              |
 |          | CMeIE   | —                                          | —                                             | —                                                      | —                  |
 |          | ACE05   | 171                                        | 134                                           | 37                                                     | 21.64%             |
 |          | CMeEE   | —                                          | —                                             | —                                                      | —                  |
